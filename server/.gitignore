@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+
+# Dependency directories
+pnpjs/
+.pnp/
+.npm/
+.npmrc
+
+# dotenv environment file
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled binary addons
+/build/
+/node_modules/node-gyp/
